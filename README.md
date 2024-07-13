@@ -1,6 +1,6 @@
 [![MasterHead](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Foyster.ignimgs.com%2Fwordpress%2Fwww.ign.com%2F2097%2F2011%2F11%2FMatrix-banner.jpg&f=1&nofb=1&ipt=9cc45f27392191da6614d3eeea610952c54f7fba5b9bb618fe630ed7c43ca867&ipo=images)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm x_5corpion</h1>
-<h3 align="center">Aspiring pen tester.</h3>
+<h3 align="center">Aspiring red teamer.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/embedded/download/758a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x5corpion&label=Profile%20views&color=0e75b6&style=flat" alt="x5corpion" /> </p>
