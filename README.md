@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **ℑ'𝔪 𝔱𝔬𝔬 𝔩𝔞𝔷𝔶**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me via telegram</h3>
 <p align="left">
 </p>
 
