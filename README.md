@@ -1,19 +1,19 @@
 [![MasterHead](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Foyster.ignimgs.com%2Fwordpress%2Fwww.ign.com%2F2097%2F2011%2F11%2FMatrix-banner.jpg&f=1&nofb=1&ipt=9cc45f27392191da6614d3eeea610952c54f7fba5b9bb618fe630ed7c43ca867&ipo=images)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm x_5corpion</h1>
-<h3 align="center">Aspiring red teamer.</h3>
+<h1 align="center">Hi 👋, I'm 𝘅_𝟱𝗰𝗼𝗿𝗽𝗶𝗼𝗻</h1>
+<h3 align="center">Aspiring 🇵​​🇪​​🇳​​🇹​​🇪​​🇸​​🇹​​🇪​​🇷​.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/embedded/download/758a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x5corpion&label=Profile%20views&color=0e75b6&style=flat" alt="x5corpion" /> </p>
 
 - 🌱 I’m currently learning **Ruby,Bash,Powershell,C**
 
-- 📝 I regularly write articles on [Nowhere](Nowhere)
+- 📝 I regularly write articles on gitbook,link in profile.
 
 - 💬 Ask me about **Nothing!**
 
 - 📫 How to reach me **t.me/x_5corpion**
 
-- ⚡ Fun fact **Ain't gay,I train at home like a military,unlike gymrats**
+- ⚡ Fun fact **ℑ'𝔪 𝔱𝔬𝔬 𝔩𝔞𝔷𝔶**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
